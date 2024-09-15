@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ-204_FunctionsDemo", "AZ-204_FunctionsDemo.csproj", "{F3A6EE2E-18B1-42FA-BBDA-A338D27D2480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZ-204-BlobTimerTriggerFunctionApp", "..\AZ-204-BlobTimerTriggerFunctionApp\AZ-204-BlobTimerTriggerFunctionApp.csproj", "{44EB1BC0-344C-422E-AF4C-D821C3329BBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3A6EE2E-18B1-42FA-BBDA-A338D27D2480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A6EE2E-18B1-42FA-BBDA-A338D27D2480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A6EE2E-18B1-42FA-BBDA-A338D27D2480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A6EE2E-18B1-42FA-BBDA-A338D27D2480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EB1BC0-344C-422E-AF4C-D821C3329BBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EB1BC0-344C-422E-AF4C-D821C3329BBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EB1BC0-344C-422E-AF4C-D821C3329BBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EB1BC0-344C-422E-AF4C-D821C3329BBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09BA4287-A0D5-4EA5-8D19-A5ACC135182C}
+	EndGlobalSection
+EndGlobal
